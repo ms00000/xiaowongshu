@@ -1,0 +1,8 @@
+{
+  "name": "小黄书",
+  "description": "A fun, intelligent Japanese-Chinese dictionary with OCR, visual learning, and story generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
